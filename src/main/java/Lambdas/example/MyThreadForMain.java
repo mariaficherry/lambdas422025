@@ -1,6 +1,6 @@
-package Lambdas;
+package Lambdas.example;
 
-public class MyThread extends Thread {
+public class MyThreadForMain extends Thread {
 
     // Override run method
     @Override
